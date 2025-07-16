@@ -17,15 +17,15 @@ Motivated and detail-oriented front-end designer with a strong foundation in HTM
 [www.broccobae.com](https://www.broccobae.com) | Jun 2025 – Jul 2025
 **Tools:** Figma, GitHub, VS Code, Notion
 
-• Designed a responsive website layout in Figma based on a plant-based lifestyle brand
-• Translated Figma design into clean, semantic HTML and CSS structure using Visual Studio Code 
-• Implemented responsive design techniques for cross-device compatibility (desktop, tablet, mobile) 
-• Organized and structured project files for scalability and code clarity
-• Used Git for version control and GitHub for code repository and deployment
-• Configured custom domain (broccobae.com) using Porkbun and integrated it with GitHub Pages
-• Deployed the site live, managing DNS settings, hosting, and updates independently
-• Ensured smooth navigation and user experience through intuitive layout and styled UI elements
-• Published demo pages for header navigation buttons as part of live prototype testing
+*Designed a responsive website layout in Figma based on a plant-based lifestyle brand*
+*Translated Figma design into clean, semantic HTML and CSS structure using Visual Studio Code* 
+*Implemented responsive design techniques for cross-device compatibility (desktop, tablet, mobile)*
+*Organized and structured project files for scalability and code clarity*
+*Used Git for version control and GitHub for code repository and deployment*
+*Configured custom domain (broccobae.com) using Porkbun and integrated it with GitHub Pages*
+*Deployed the site live, managing DNS settings, hosting, and updates independently*
+*Ensured smooth navigation and user experience through intuitive layout and styled UI elements*
+*Published demo pages for header navigation buttons as part of live prototype testing*
 
 
 ### 💸 **Globetrone Online Bank App – UX Case Study**
@@ -33,10 +33,10 @@ Motivated and detail-oriented front-end designer with a strong foundation in HTM
 Sep 2024 – Nov 2024
 **Tools:** Figma, Canva, Adobe XD, Notion
 
-• Conducted full UX case study targeting foreign workers transferring money abroad 
-• Designed personas, empathy maps, and user journeys
-• Created wireframes, high-fidelity mockups, and interactive prototypes
-• Focused on seamless user flows and cross-border money transfer functionality
+*Conducted full UX case study targeting foreign workers transferring money abroad*
+*Designed personas, empathy maps, and user journeys*
+*reated wireframes, high-fidelity mockups, and interactive prototypes*
+*Focused on seamless user flows and cross-border money transfer functionality*
 
 
 ### ☕ **Coffee Ordering App – Figma Prototype**
@@ -44,9 +44,9 @@ Sep 2024 – Nov 2024
 Jul 2024 – Aug 2024
 **Tools:** Figma, Canva, Adobe XD, Notion
 
-• Designed a mobile coffee ordering experience for efficiency and clarity 
-• Developed complete wireframes and click-through prototype in Figma 
-• Prioritized user-friendly navigation and simplified checkout process
+*Designed a mobile coffee ordering experience for efficiency and clarity*
+*Developed complete wireframes and click-through prototype in Figma*
+*Prioritized user-friendly navigation and simplified checkout process*
 
 
 ## 🛠️ Skills
