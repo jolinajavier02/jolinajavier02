@@ -1,64 +1,74 @@
-# 🌟 Welcome to the Awesome Project! 🌟
 
-> **“Code is like humor—when you have to explain it, it’s probably not that great.”**
+# 🎨 Jolina Ponce Javier
 
-## 🚀 Project Overview
+**Tokyo, Japan** | 📞 +81 704-032-4312
+[![Email](https://img.shields.io/badge/Email-jolinapjavier%40gmail.com-brightgreen)](mailto:jolinapjavier@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jolinajavier-blue)](https://github.com/jolinajavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jolina%20Javier-blue)](https://www.linkedin.com/in/jolina-javier)
 
-This repository holds the source code for **Awesome Project**, a daring adventure into making the mundane magical. Whether you’re here to squash bugs, build features, or just marvel at the README emojis, you’re in the right place.
 
-## ✨ Features
+I’m a passionate **Front-End Designer** and **UI/UX Enthusiast** with a keen eye for detail, based in Tokyo. I enjoy transforming visual concepts into responsive and accessible web interfaces using HTML, CSS, JavaScript, and React (basic). With a background in hospitality and a strong foundation in design tools like Figma, I bring user empathy and structure into every pixel I place.
 
-* **Blazing‑fast** startup (seriously, blink and you’ll miss it)
-* **Zero‑config** setup—just clone and go!
-* **Plug‑and‑Play** widgets for instant wow‑factor
-* **100% more emojis** than your average repo 😎
 
-## 🛠️ Installation
+## 💻 Projects
 
-```bash
-# 1. Clone the repo
-$ git clone https://github.com/your-username/awesome-project.git
+### 🌱 **Broccobae Website – Live Project**
 
-# 2. Jump in
-$ cd awesome-project
+[www.broccobae.com](https://www.broccobae.com) | Jun 2025 – Jul 2025
+**Tools:** Figma, GitHub, VS Code, Notion
 
-# 3. Install dependencies (we use npm here, but we won’t judge)
-$ npm install
+* Designed a responsive layout for a plant-based lifestyle brand.
+* Coded HTML/CSS from scratch and applied media queries for cross-device compatibility.
+* Configured DNS settings and deployed using GitHub Pages with a custom domain.
+* Developed and published prototype demo pages with styled UI components.
 
-# 4. Start the dev server
-$ npm run dev
-```
+### 💸 **Globetrone Online Bank App – UX Case Study**
 
-You should now see *Awesome Project* running at **[http://localhost:3000](http://localhost:3000)**. High‑five! ✋
+Sep 2024 – Nov 2024
+**Tools:** Figma, Canva, Adobe XD, Notion
 
-## 🎮 Usage
+* Conducted full UX case study focused on foreign workers in Japan.
+* Developed user personas, empathy maps, and journey flows.
+* Designed high-fidelity mockups and click-through prototypes.
 
-1. Open your browser.
-2. Navigate to the local URL above.
-3. Click everything. (Trust us—it’s fun.)
+### ☕ **Coffee Ordering App – Figma Prototype**
 
-## 🤝 Contributing
+Jul 2024 – Aug 2024
+**Tools:** Figma, Canva, Adobe XD, Notion
 
-Contributions are welcome, encouraged, and celebrated!
+* Designed a mobile-first ordering experience with intuitive navigation.
+* Built a clean wireframe and clickable prototype that simplifies checkout.
+  
 
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature/my-awesome-feature`.
-3. Commit your changes: `git commit -m 'Add some awesome feature'`.
-4. Push to the branch: `git push origin feature/my-awesome-feature`.
-5. Open a pull request.
+## 🛠️ Skills
 
-We’ll review it over coffee ☕ (or matcha 🍵 if we’re feeling fancy).
+### 🧰 Technical
 
-## 📜 License
+HTML • CSS • JavaScript (Basic) • React (Basic)
+Figma • Website Hosting • GitHub Pages • VS Code
 
-This project is licensed under the **MIT License**—so feel free to do almost anything short of stealing the moon. 🌕
+### 🎯 Design & Professional
 
-## 🙋 FAQ
+Responsive Web Design • Visual Layout Precision
+Project Execution • Collaboration • Adaptability
 
-**Q:** *Why so many emojis?*
+### 🌍 Languages
 
-**A:** Because life’s too short for boring READMEs! 🎉
+English (Business) • Japanese (Basic) • Filipino (Native)
 
----
 
-Made with ❤️, caffeine, and just a touch of JavaScript magic.
+## 🎓 Education
+
+* **Google UX Design Certificate** – Coursera (Jul–Oct 2024)
+* **UI/UX Design Specialization** – CalArts / Coursera (Jul–Oct 2024)
+* **BS in Hospitality Management** – University of Eastern Philippines (2020–2024)
+
+
+## 📬 Let’s Connect!
+
+Want to collaborate on a design or project?
+Feel free to reach out!
+📧 [jolinapjavier@gmail.com](mailto:jolinapjavier@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/jolina-javier)
+
+*This README was designed with ❤️, visual grids, and lots of caffeine ☕*
