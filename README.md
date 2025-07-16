@@ -71,4 +71,4 @@ Feel free to reach out!
 📧 [jolinapjavier@gmail.com](mailto:jolinapjavier@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/jolina-javier)
 
-*This README was designed with ❤️, visual grids, and lots of caffeine ☕*
+
