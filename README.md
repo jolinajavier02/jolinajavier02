@@ -1,11 +1,11 @@
 
-# 🎨 Jolina Ponce Javier  
-📍 [Tokyo, Japan](https://www.google.com/maps/place/Tokyo,+Japan) |  
-📞 [+81 704-032-4312](tel:+817040324312) |  
-📧 [jolinapjavier@gmail.com](mailto:jolinapjavier@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jolina%20Javier-blue)](https://www.linkedin.com/in/jolina-javier)  
-[![Wantedly](https://img.shields.io/badge/Wantedly-Visit%20Profile-orange)](https://www.wantedly.com/users/your-wantedly-id)
+# 🎨 Jolina Ponce Javier 
 
+[![Email](https://img.shields.io/badge/Email-jolinapjavier%40gmail.com-brightgreen)](mailto:jolinapjavier@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jolinajavier-blue)](https://github.com/jolinajavier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jolina%20Javier-blue)](https://www.linkedin.com/in/jolina-javier)
+(https://www.google.com/maps/place/Tokyo,+Japan) | 
+(tel:+817040324312)
 
 I’m a passionate **Front-End Designer** and **UI/UX Enthusiast** with a keen eye for detail, based in Tokyo. I enjoy transforming visual concepts into responsive and accessible web interfaces using HTML, CSS, JavaScript, and React (basic). With a background in hospitality and a strong foundation in design tools like Figma, I bring user empathy and structure into every pixel I place.
 
