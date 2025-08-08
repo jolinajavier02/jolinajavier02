@@ -49,35 +49,160 @@ Jul 2024 – Aug 2024
 * Prioritized user-friendly navigation and simplified checkout process.
 
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-### 🧰 Technical
+<div align="center">
 
-HTML • CSS • JavaScript (Basic) • React (Basic)
-Figma • Website Hosting • GitHub Pages • VS Code
+<table>
+<tr>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
+  <br>HTML
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
+  <br>CSS
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
+  <br>JavaScript
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
+  <br>React
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" />
+  <br>Figma
+</td>
+</tr>
+<tr>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
+  <br>GitHub
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/domain.png" width="48" height="48" />
+  <br>Hosting
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />
+  <br>VS Code
+</td>
+</tr>
+</table>
 
-### 🎯 Design & Professional
+</div>
 
-Responsive Web Design • Visual Layout Precision
-Project Execution • Collaboration • Adaptability
+## 🎯 Design & Soft Skills
 
-### 🌍 Languages
+<div align="center">
 
-English (Business) • Japanese (Basic) • Filipino (Native)
+<table>
+<tr>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/responsive.png" width="48" height="48" />
+  <br>Responsive Design
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/organize.png" width="48" height="48" />
+  <br>Visual Layout
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/task-completed.png" width="48" height="48" />
+  <br>Project Execution
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/handshake--v1.png" width="48" height="48" />
+  <br>Collaboration
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://img.icons8.com/color/48/000000/light-on.png" width="48" height="48" />
+  <br>Adaptability
+</td>
+</tr>
+</table>
 
+</div>
+
+
+## 🌍 Languages
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" width="48" alt="English" title="English" />
+  <br>English<br><sub>(Business)</sub>
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="48" alt="Japanese" title="Japanese" />
+  <br>Japanese<br><sub>(Basic)</sub>
+</td>
+<td align="center" style="width: 120px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="48" alt="Filipino" title="Filipino" />
+  <br>Filipino<br><sub>(Native)</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎓 Education
 
-* **Google UX Design Certificate** – Coursera (Jul–Oct 2024)
-* **UI/UX Design Specialization** – CalArts / Coursera (Jul–Oct 2024)
-* **BS in Hospitality Management** – University of Eastern Philippines (2020–2024)
+<div align="left">
+
+### 📘 Google UX Design Certificate — *Coursera*  
+🗓️ Jul–Oct 2024  
+<img src="https://img.icons8.com/color/48/000000/google-logo.png" width="24"/> Professional Certificate by Google  
+Completed the following 7-course path:
+
+1. ✅ Foundations of User Experience (UX) Design  
+2. ✅ Start the UX Design Process: Empathize, Define, and Ideate  
+3. ✅ Build Wireframes and Low-Fidelity Prototypes  
+4. ✅ Conduct UX Research and Test Early Concepts  
+5. ✅ Create High-Fidelity Designs and Prototypes in Figma  
+6. ✅ Responsive Web Design in Adobe XD and Figma  
+7. ✅ Design a User Experience for Social Good & Prepare for Jobs
+
+---
+
+### 🎨 UI/UX Design Specialization — *California Institute of the Arts / Coursera*  
+🗓️ Jul–Oct 2024  
+<img src="https://img.icons8.com/fluency/48/000000/adobe-xd.png" width="24"/> Specialization Series Completed:
+
+1. ✅ Visual Elements of User Interface Design  
+2. ✅ UX Design Fundamentals  
+
+---
+
+### 🎓 Bachelor of Science in Hospitality Management  
+**University of Eastern Philippines**  
+🗓️ 2020–2024
+
+</div>
+
 
 
 ## 📬 Let’s Connect!
 
-Want to collaborate on a design or project?
-Feel free to reach out!
-📧 [jolinapjavier@gmail.com](mailto:jolinapjavier@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/jolina-javier)
+<div align="center">
+
+<p>Want to collaborate on a design or project?<br>Feel free to reach out!</p>
+
+<a href="mailto:jolinapjavier@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/apple-mail.png" width="48" alt="Email" title="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jolina-javier" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" alt="LinkedIn" title="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.wantedly.com/id/jolina_javier" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-wantedly-a-japanese-employment-oriented-social-networking-service-logo-color-tal-revivo.png" width="48" alt="Wantedly" title="Wantedly" />
+</a>
+
+</div>
 
 
