@@ -51,48 +51,134 @@ Jul 2024 – Aug 2024
 
 ## 🛠️ Skills & Tools
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jolina Javier - Technical Skills</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
 
-<table>
-<tr>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" />
-  <br>HTML
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" />
-  <br>CSS
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-  <br>JavaScript
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-  <br>React
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" />
-  <br>Figma
-</td>
-</tr>
-<tr>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
-  <br>GitHub
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/domain.png" width="48" height="48" />
-  <br>Hosting
-</td>
-<td align="center" style="width: 120px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" />
-  <br>VS Code
-</td>
-</tr>
-</table>
+    .skills-section {
+      text-align: center;
+      max-width: 900px;
+      background: white;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
 
-</div>
+    .skills-section h2 {
+      font-size: 2rem;
+      margin-bottom: 30px;
+      color: #333;
+    }
+
+    .skills-icons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .skill {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      animation: float 4s ease-in-out infinite;
+      transition: transform 0.3s ease;
+      width: 100px;
+      cursor: default;
+    }
+
+    .skill:hover {
+      transform: scale(1.1);
+    }
+
+    .skill img {
+      width: 60px;
+      height: 60px;
+    }
+
+    .skill p {
+      margin-top: 10px;
+      font-weight: bold;
+      color: #555;
+    }
+
+    /* Floating animation */
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-12px); }
+      100% { transform: translateY(0px); }
+    }
+
+    /* Responsive */
+    @media (max-width: 500px) {
+      .skill {
+        width: 80px;
+      }
+      .skill img {
+        width: 48px;
+        height: 48px;
+      }
+      .skills-section h2 {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <section class="skills-section">
+    <h2>🛠️ Technical Skills</h2>
+    <div class="skills-icons">
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+        <p>HTML</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+        <p>CSS</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+        <p>JavaScript</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+        <p>React</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+        <p>Figma</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+        <p>GitHub</p>
+      </div>
+      <div class="skill">
+        <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Hosting" />
+        <p>Hosting</p>
+      </div>
+      <div class="skill">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
+        <p>VS Code</p>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
+
 
 ## 🎯 Design & Soft Skills
 
