@@ -101,29 +101,30 @@ Jul 2024 – Aug 2024
 <table>
 <tr>
 <td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/responsive.png" width="48" height="48" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="48" alt="Responsive Design" title="Responsive Design" />
   <br>Responsive Design
 </td>
 <td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/organize.png" width="48" height="48" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="48" alt="Visual Layout" title="Visual Layout Precision" />
   <br>Visual Layout
 </td>
 <td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/task-completed.png" width="48" height="48" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2921/2921222.png" width="48" alt="Project Execution" title="Project Execution" />
   <br>Project Execution
 </td>
 <td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/handshake--v1.png" width="48" height="48" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3771/3771451.png" width="48" alt="Collaboration" title="Collaboration" />
   <br>Collaboration
 </td>
 <td align="center" style="width: 120px;">
-  <img src="https://img.icons8.com/color/48/000000/light-on.png" width="48" height="48" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1040/1040230.png" width="48" alt="Adaptability" title="Adaptability" />
   <br>Adaptability
 </td>
 </tr>
 </table>
 
 </div>
+
 
 
 ## 🌍 Languages
@@ -200,7 +201,7 @@ Completed the following 7-course path:
 </a>
 &nbsp;&nbsp;
 <a href="https://www.wantedly.com/id/jolina_javier" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-wantedly-a-japanese-employment-oriented-social-networking-service-logo-color-tal-revivo.png" width="48" alt="Wantedly" title="Wantedly" />
+  <img src="https://raw.githubusercontent.com/yena-hub/assets/main/wantedly-icon.png" width="48" alt="Wantedly" title="Wantedly" />
 </a>
 
 </div>
