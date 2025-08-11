@@ -96,15 +96,6 @@ Jul 2024 – Aug 2024
 
 ---
 
-## 🎯 Design & Soft Skills
-
-- Responsive Web Design  
-- Visual Layout Precision  
-- Project Execution  
-- Collaboration & Teamwork  
-- Adaptability & Problem Solving  
-
-
 
 ## 🎯 Design & Soft Skills
 
