@@ -17,23 +17,23 @@ Motivated and detail-oriented front-end designer with a strong foundation in HTM
 [www.natours-travel.com](https://natours-travel.com) | Nov 2025
 **Tools:** VS Code, GitHub, GitHub Pages, Porkbun (Domain Hosting)
 
-*Developed a fully responsive travel booking website using HTML, CSS, and JavaScript in Visual Studio Code.
+* Developed a fully responsive travel booking website using HTML, CSS, and JavaScript in Visual Studio Code.
 
-*Built structured page layouts and reusable design components to ensure consistency across all pages.
+* Built structured page layouts and reusable design components to ensure consistency across all pages.
 
-*Implemented mobile-first responsive techniques for seamless viewing on desktop, tablet, and mobile devices.
+* Implemented mobile-first responsive techniques for seamless viewing on desktop, tablet, and mobile devices.
 
-*Utilized Git for version control and GitHub as the main repository for managing updates and project collaboration.
+* Utilized Git for version control and GitHub as the main repository for managing updates and project collaboration.
 
-*Configured and connected a custom domain (natours-travel.com) purchased from Porkbun to GitHub Pages hosting.
+* Configured and connected a custom domain (natours-travel.com) purchased from Porkbun to GitHub Pages hosting.
 
-*Managed DNS setup, including A records and CNAME records, to ensure smooth and stable deployment.
+* Managed DNS setup, including A records and CNAME records, to ensure smooth and stable deployment.
 
-*Organized project folder structure for clarity, scalability, and easier future updates.
+* Organized project folder structure for clarity, scalability, and easier future updates.
 
-*Ensured optimal user experience through clean navigation, accessible UI elements, and visually appealing design styling.
+* Ensured optimal user experience through clean navigation, accessible UI elements, and visually appealing design styling.
 
-*Published the live site and maintained continuous improvements as part of the deployment workflow.
+* Published the live site and maintained continuous improvements as part of the deployment workflow.
 
 
 ### 🌱 **Broccobae Website – Live Project**
