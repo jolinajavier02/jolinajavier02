@@ -14,7 +14,7 @@ Motivated and detail-oriented front-end designer with a strong foundation in HTM
 
 ### 🌍 **Natours Travel – Live Project**
 
-[www.natours-travel.com](https://natours-travel.com) | Nov 2025
+www.natours-travel.com| Nov 2025
 **Tools:** VS Code, GitHub, GitHub Pages, Porkbun (Domain Hosting)
 
 * Developed a fully responsive travel booking website using HTML, CSS, and JavaScript in Visual Studio Code.
